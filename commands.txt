@@ -1,0 +1,13 @@
+1) Weather <City>
+2) Weather <Country>
+3) Weather <Postal Code>
+
+4) Soccer/Football <Live scores>
+5) Soccer/Football <League teams>
+6) Soccer/Football <Upcoming fixtures>
+
+7) Search <Search query> --> Bring up google search in new tab
+
+8) Info <info query> --> Show relevant hyperlinked wikipedia articles
+
+9) 
